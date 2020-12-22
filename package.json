@@ -1,0 +1,25 @@
+{
+  "name": "exer_filipemassa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaobarros1972/exer_filipemassa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaobarros1972/exer_filipemassa/issues"
+  },
+  "homepage": "https://github.com/joaobarros1972/exer_filipemassa#readme",
+  "dependencies": {
+    "next": "^10.0.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
