@@ -10,13 +10,7 @@ function Home() {
     )    
 }
 
-function Caralhos(){
-    return (
-        <div>
-            <p>Funciona mesmo !! :)</p>
-        </div>
-    )
-}
+
 
 function Contador() {
     const [contador, setContador] = useState(1);
@@ -31,5 +25,14 @@ function Contador() {
         </div>
     )
 }
+
+function Caralhos(){
+    return (
+        <div>
+            <p>Funciona mesmo !! :)</p>
+        </div>
+    )
+}
+
 
 export default Home
